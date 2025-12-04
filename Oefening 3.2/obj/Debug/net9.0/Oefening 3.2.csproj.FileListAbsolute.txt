@@ -1,0 +1,15 @@
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/bin/Debug/net9.0/Oefening 3.2
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/bin/Debug/net9.0/Oefening 3.2.deps.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/bin/Debug/net9.0/Oefening 3.2.runtimeconfig.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/bin/Debug/net9.0/Oefening 3.2.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/bin/Debug/net9.0/Oefening 3.2.pdb
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/Oefening 3.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/Oefening 3.2.AssemblyInfoInputs.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/Oefening 3.2.AssemblyInfo.cs
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/Oefening 3.2.csproj.CoreCompileInputs.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/Oefening 3.2.sourcelink.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/Oefening 3.2.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/refint/Oefening 3.2.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/Oefening 3.2.pdb
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/Oefening 3.2.genruntimeconfig.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 3.2/obj/Debug/net9.0/ref/Oefening 3.2.dll
