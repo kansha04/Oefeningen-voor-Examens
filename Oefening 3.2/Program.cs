@@ -4,16 +4,21 @@
 en Kelvin.
 */
 
-System.Console.WriteLine("=== Temperaatuur convertor ===");
-// Input //
-Console.Write("Geef een temperatuur in Celsius: ");
-double celsius = double.Parse(Console.ReadLine());
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("=== Temperaatuur convertor ===");
+        // Input //
+        Console.Write("Geef een temperatuur in Celsius: ");
+        double celsius = double.Parse(Console.ReadLine());
 
-// Formules //
-double fahrenheit = (celsius * 9 / 5) + 32;
-double kelvin = celsius + 273.15;
+        // Formules //
+        double fahrenheit = celsius * 9 / 5 + 32;
+        double kelvin = celsius + 273.15;
 
-// Output //
-Console.Clear();
-Console.WriteLine($"Celsius: {celsius}\n Fahrenheit: {fahrenheit}\n Kelvin: {kelvin}");
-
+        // Output //
+        Console.Clear();
+        Console.WriteLine($"Celsius: {celsius}\n Fahrenheit: {fahrenheit}\n Kelvin: {kelvin}");
+    }
+}
