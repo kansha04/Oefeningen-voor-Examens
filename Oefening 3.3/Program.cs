@@ -8,3 +8,12 @@
 
 // Input //
 Console.Write("Prijs exclusief btw: ");
+double prijsExclusief = double.Parse(Console.ReadLine());
+
+// BTW berekening //
+double btw = 0.21;
+double prijsIncusief = prijsExclusief + (prijsExclusief * btw);
+
+// Output //
+Console.WriteLine($"Prijs zonder btw = {prijsExclusief}");
+Console.WriteLine($"Prijs met btw = {prijsIncusief}");
