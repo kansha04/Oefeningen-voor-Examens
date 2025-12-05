@@ -14,5 +14,5 @@ if (getal % 2 == 0)
     Console.WriteLine($"Het getal {getal} is even");
 } else
 {
-    System.Console.WriteLine($"Het getal {getal} is oneven");
+    Console.WriteLine($"Het getal {getal} is oneven");
 }
