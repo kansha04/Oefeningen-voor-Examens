@@ -1,0 +1,15 @@
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/bin/Debug/net9.0/Arrays and Lists
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/bin/Debug/net9.0/Arrays and Lists.deps.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/bin/Debug/net9.0/Arrays and Lists.runtimeconfig.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/bin/Debug/net9.0/Arrays and Lists.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/bin/Debug/net9.0/Arrays and Lists.pdb
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/Arrays and Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/Arrays and Lists.AssemblyInfoInputs.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/Arrays and Lists.AssemblyInfo.cs
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/Arrays and Lists.csproj.CoreCompileInputs.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/Arrays and Lists.sourcelink.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/Arrays and Lists.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/refint/Arrays and Lists.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/Arrays and Lists.pdb
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/Arrays and Lists.genruntimeconfig.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays and Lists/obj/Debug/net9.0/ref/Arrays and Lists.dll

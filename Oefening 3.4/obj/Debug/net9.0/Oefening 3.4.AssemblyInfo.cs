@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oefening 3.4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41d2ca121d3ceff2569f9f24496ad3cd1288e456")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd3562ba8dbecd4cbb1320e82857792c2db0192")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oefening 3.4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oefening 3.4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
