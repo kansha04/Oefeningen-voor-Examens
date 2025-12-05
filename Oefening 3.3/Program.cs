@@ -16,10 +16,10 @@ internal class Program
 
         // BTW berekening //
         double btw = 0.21;
-        double prijsIncusief = prijsExclusief + prijsExclusief * btw;
+        double totaalprijs = 0;
+        totaalprijs += prijsExclusief + (prijsExclusief * btw);
 
         // Output //
-        Console.WriteLine($"Prijs zonder btw = {prijsExclusief}");
-        Console.WriteLine($"Prijs met btw = {prijsIncusief}");
+        Console.WriteLine($"Totaal prijs inclusief btw = {Math.Round(totaalprijs, 2)}");
     }
 }
