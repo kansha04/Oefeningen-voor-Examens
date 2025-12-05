@@ -7,15 +7,22 @@ Toon "Toegang verleend" of "Toegang geweigerd". */
 
 // Input // 
 
-Console.Write("Leeftijd: ");
-int leeftijd = int.Parse(Console.ReadLine());
-
-// Conditional //
-
-if (leeftijd > 18)
+internal class Program
 {
-    Console.WriteLine("Toegang verleend");
-} else
-{
-    Console.WriteLine("Toegang geweigerd");
+    private static void Main(string[] args)
+    {
+        Console.Write("Leeftijd: ");
+        int leeftijd = int.Parse(Console.ReadLine());
+
+        // Conditional //
+
+        if (leeftijd > 18)
+        {
+            Console.WriteLine("Toegang verleend");
+        }
+        else
+        {
+            Console.WriteLine("Toegang geweigerd");
+        }
+    }
 }
