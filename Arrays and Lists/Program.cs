@@ -41,7 +41,7 @@ using System.Collections.Generic;
     }
 } */
 
-namespace Lists
+/*namespace Lists
 {
     class Program
     {
@@ -57,6 +57,45 @@ namespace Lists
             for (int i = 0; i < shoppingList.Count; i++)
             {
                 System.Console.WriteLine(shoppingList[i]);
+            }
+
+            shoppingList.RemoveAt(0);
+
+            System.Console.WriteLine("----------------------");
+
+            for (int i = 0; i < shoppingList.Count; i++)
+            {
+                System.Console.WriteLine(shoppingList[i]);
+            }
+        }
+    }
+} */
+
+namespace challenge
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Input // 
+            Console.WriteLine("How many students are in your class?: ");
+            string[] students = new string[int.Parse(Console.ReadLine())];
+            System.Console.WriteLine("Please enter your students names: ");
+            // for loop for entering students
+            for (int i = 0; i < students.Length; i++)
+            {
+                students[i] = Console.ReadLine();
+            }
+            Console.Clear();
+            // Output 
+            Console.WriteLine("Class List");
+            Console.WriteLine("----------");
+            Array.Sort(students);
+            // for loop to display students to console
+            for (int i = 0; i < students.Length; i++)
+            {
+                int order = i + 1;
+                Console.WriteLine(order + ". " + students[i]);
             }
         }
     }
