@@ -7,29 +7,35 @@ Het totaal
 Of de gebruiker een "dubbel" heeft gegooid (beide dobbelstenen hetzelfde getal)
 Tip: Gebruik Random.Next(1, 7) voor getallen tussen 1 en 6. */
 
-Console.WriteLine("Dobbelsteen werper");
-
-// Variabelen //
-
-Random randomGen = new Random();
-
-int roll1 = 0;
-int roll2 = 1;
-int attempts = 0;
-
-Console.WriteLine("Druk op enter om de dobbelsteen te gooien.");
-// While loop //
-
-do
+internal class Program
 {
-    Console.ReadKey();
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Dobbelsteen werper");
 
-    roll1 = randomGen.Next(1, 7);
-    roll2 = randomGen.Next(1, 7);
+        // Variabelen //
 
-    System.Console.WriteLine($"Dobbelsteen 1: {roll1}");
-    System.Console.WriteLine($"Dobbelsteen 2: {roll2}");
-    attempts++;
-} while (roll1 != roll2);
+        Random randomGen = new Random();
 
-Console.WriteLine($"Er waren in totaal {attempts} worpen nodig om een dubbel te gooien.");
+        int roll1 = 0;
+        int roll2 = 1;
+        int attempts = 0;
+
+        Console.WriteLine("Druk op enter om de dobbelsteen te gooien.");
+        // While loop //
+
+        do
+        {
+            Console.ReadKey();
+
+            roll1 = randomGen.Next(1, 7);
+            roll2 = randomGen.Next(1, 7);
+
+            Console.WriteLine($"Dobbelsteen 1: {roll1}");
+            Console.WriteLine($"Dobbelsteen 2: {roll2}");
+            attempts++;
+        } while (roll1 != roll2);
+
+        Console.WriteLine($"Er waren in totaal {attempts} worpen nodig om een dubbel te gooien.");
+    }
+}
