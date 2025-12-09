@@ -1,0 +1,15 @@
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/bin/Debug/net9.0/Lists
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/bin/Debug/net9.0/Lists.deps.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/bin/Debug/net9.0/Lists.runtimeconfig.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/bin/Debug/net9.0/Lists.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/bin/Debug/net9.0/Lists.pdb
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/Lists.AssemblyInfoInputs.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/Lists.AssemblyInfo.cs
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/Lists.csproj.CoreCompileInputs.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/Lists.sourcelink.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/Lists.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/refint/Lists.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/Lists.pdb
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/Lists.genruntimeconfig.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/Debug/net9.0/ref/Lists.dll
