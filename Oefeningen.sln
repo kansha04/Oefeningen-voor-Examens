@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays Challenge", "Arrays 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 5.1", "Oefening 5.1\Oefening 5.1.csproj", "{EBC747EF-E813-437C-8962-D41F528192AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 5.2", "Oefening 5.2\Oefening 5.2.csproj", "{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,18 @@ Global
 		{EBC747EF-E813-437C-8962-D41F528192AF}.Release|x64.Build.0 = Release|Any CPU
 		{EBC747EF-E813-437C-8962-D41F528192AF}.Release|x86.ActiveCfg = Release|Any CPU
 		{EBC747EF-E813-437C-8962-D41F528192AF}.Release|x86.Build.0 = Release|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Debug|x64.Build.0 = Debug|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Debug|x86.Build.0 = Debug|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Release|x64.ActiveCfg = Release|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Release|x64.Build.0 = Release|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Release|x86.ActiveCfg = Release|Any CPU
+		{BD8CB4E1-3AAA-48E7-8F60-29F619798A21}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
