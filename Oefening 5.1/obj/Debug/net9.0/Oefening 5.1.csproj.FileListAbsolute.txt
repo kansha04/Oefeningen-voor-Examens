@@ -1,0 +1,15 @@
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/bin/Debug/net9.0/Oefening 5.1
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/bin/Debug/net9.0/Oefening 5.1.deps.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/bin/Debug/net9.0/Oefening 5.1.runtimeconfig.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/bin/Debug/net9.0/Oefening 5.1.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/bin/Debug/net9.0/Oefening 5.1.pdb
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/Oefening 5.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/Oefening 5.1.AssemblyInfoInputs.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/Oefening 5.1.AssemblyInfo.cs
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/Oefening 5.1.csproj.CoreCompileInputs.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/Oefening 5.1.sourcelink.json
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/Oefening 5.1.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/refint/Oefening 5.1.dll
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/Oefening 5.1.pdb
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/Oefening 5.1.genruntimeconfig.cache
+/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 5.1/obj/Debug/net9.0/ref/Oefening 5.1.dll
