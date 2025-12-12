@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/Oefening 4.3.csproj": {}
+    "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/Oefening 4.3.csproj": {}
   },
   "projects": {
-    "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/Oefening 4.3.csproj": {
+    "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/Oefening 4.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/Oefening 4.3.csproj",
+        "projectUniqueName": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/Oefening 4.3.csproj",
         "projectName": "Oefening 4.3",
-        "projectPath": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/Oefening 4.3.csproj",
+        "projectPath": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/Oefening 4.3.csproj",
         "packagesPath": "/Users/tinomushayi/.nuget/packages/",
-        "outputPath": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/obj/",
+        "outputPath": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tinomushayi/.nuget/NuGet/NuGet.Config"

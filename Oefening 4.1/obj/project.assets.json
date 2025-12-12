@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.1/Oefening 4.1.csproj",
+      "projectUniqueName": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.1/Oefening 4.1.csproj",
       "projectName": "Oefening 4.1",
-      "projectPath": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.1/Oefening 4.1.csproj",
+      "projectPath": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.1/Oefening 4.1.csproj",
       "packagesPath": "/Users/tinomushayi/.nuget/packages/",
-      "outputPath": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.1/obj/",
+      "outputPath": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Oefening 4.1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tinomushayi/.nuget/NuGet/NuGet.Config"

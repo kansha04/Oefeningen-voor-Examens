@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/Arrays Challenge.csproj": {}
+    "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/Arrays Challenge.csproj": {}
   },
   "projects": {
-    "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/Arrays Challenge.csproj": {
+    "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/Arrays Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/Arrays Challenge.csproj",
+        "projectUniqueName": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/Arrays Challenge.csproj",
         "projectName": "Arrays Challenge",
-        "projectPath": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/Arrays Challenge.csproj",
+        "projectPath": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/Arrays Challenge.csproj",
         "packagesPath": "/Users/tinomushayi/.nuget/packages/",
-        "outputPath": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/obj/",
+        "outputPath": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Arrays Challenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tinomushayi/.nuget/NuGet/NuGet.Config"

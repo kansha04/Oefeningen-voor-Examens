@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/Lists.csproj": {}
+    "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/Lists.csproj": {}
   },
   "projects": {
-    "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/Lists.csproj": {
+    "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/Lists.csproj",
+        "projectUniqueName": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/Lists.csproj",
         "projectName": "Lists",
-        "projectPath": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/Lists.csproj",
+        "projectPath": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/Lists.csproj",
         "packagesPath": "/Users/tinomushayi/.nuget/packages/",
-        "outputPath": "/Users/tinomushayi/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/",
+        "outputPath": "/Users/tinomushayi/Desktop/Nemiah/Programming 👨🏾‍💻/Projects/C# Projects/Oefeningen voor Examens/Lists/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tinomushayi/.nuget/NuGet/NuGet.Config"
